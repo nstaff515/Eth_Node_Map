@@ -11,4 +11,8 @@
 
 ## Think of yourself being in a marketing position at a company like SoFi.. Can you see how this data might be useful to see which regions might be most welcoming of advertisements related to a Cryptocurrency rewards based credit card? amongst many other services!
 
-## Link to Google slides presentation (<https://docs.google.com/presentation/d/1fVGhtH8Bv-Le4_WEbSrGM_dRXMfmYMeo4I6WVN5dqcs/edit?usp=sharing>)
+## Link to Google slides presentation: (<https://docs.google.com/presentation/d/1fVGhtH8Bv-Le4_WEbSrGM_dRXMfmYMeo4I6WVN5dqcs/edit?usp=sharing>)
+
+## Sources for Market Data: (<https://etherscan.io/>)
+
+## Source for IP location data: (<https://github.com/r1oga/folium-eth-nodes-map>)
